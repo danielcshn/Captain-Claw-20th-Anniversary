@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 7c50bd3e042b4c445ac417384f5129f3
-timeCreated: 1509112100
+guid: 56d8e764c9218a141b41d2a411d8ab71
+timeCreated: 1509079100
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: lamp_0
-    21300002: lamp_1
-    21300004: lamp_2
-    21300006: lamp_3
+    21300000: lamp_mini_0
+    21300002: lamp_mini_1
+    21300004: lamp_mini_2
+    21300006: lamp_mini_3
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -61,7 +61,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -70,7 +70,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
   - buildTarget: Standalone
-    maxTextureSize: 256
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -79,7 +79,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
   - buildTarget: Android
-    maxTextureSize: 256
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
@@ -91,13 +91,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lamp_0
+      name: lamp_mini_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 5
         y: 0
-        width: 51
-        height: 122
+        width: 16
+        height: 27
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -105,13 +105,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: lamp_1
+      name: lamp_mini_1
       rect:
         serializedVersion: 2
-        x: 57
+        x: 26
         y: 0
-        width: 51
-        height: 124
+        width: 16
+        height: 33
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,13 +119,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: lamp_2
+      name: lamp_mini_2
       rect:
         serializedVersion: 2
-        x: 113
+        x: 46
         y: 0
-        width: 51
-        height: 124
+        width: 16
+        height: 34
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,13 +133,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: lamp_3
+      name: lamp_mini_3
       rect:
         serializedVersion: 2
-        x: 166
+        x: 64
         y: 0
-        width: 51
-        height: 122
+        width: 16
+        height: 29
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

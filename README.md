@@ -22,13 +22,21 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.1 [24-27 Oct 2017]
-- Miscellaneous (Lamp).
+- Miscellaneous (Lamp, Mini-Lamp, Skull).
 - Level 1 (100%).
 - All Levels Music Remastered.
 - Officer + Animations.
 - Claw + Animations.
 - Basic collision.
 - First Version.
+
+# LINKS:
+
+## Facebook Page: 
+https://www.facebook.com/TheCaptainClaw/
+
+## Facebook Group:
+https://www.facebook.com/groups/1490746661021510/
 
 # DISCLAIMER:
 

@@ -22,6 +22,8 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.1 [24-27 Oct 2017]
+- Basic Score Marker.
+- Treasure (Coins).
 - Miscellaneous (Lamp, Mini-Lamp, Skull, Spiderweb, Cell, Water, Arrows & Handcuffs).
 - Level 1 (100%).
 - All Levels Music Remastered.

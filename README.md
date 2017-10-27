@@ -21,17 +21,12 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 
 # Changelog
 
-## v0.1 [26 Oct 2017]
-
-## v0.1 [25 Oct 2017]
+## v0.1 [24-26 Oct 2017]
+- Level 1 (100%).
 - All Levels Music Remastered.
-- Level 1 (Partial).
 - Officer + Animations.
-
-## v0.1 [24 Oct 2017]
-- Level 1 (Partial).
-- Basic collision.
 - Claw + Animations.
+- Basic collision.
 - First Version.
 
 # DISCLAIMER:

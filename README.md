@@ -23,7 +23,7 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 
 ## v0.1 [24-27 Oct 2017]
 - Basic Score Marker.
-- Treasure (Coins).
+- Treasure (Coins, Cross, Ring, Gecko, Skull, Pearl Necklace, Gold Bar, Scepter & Crown).
 - Miscellaneous (Lamp, Mini-Lamp, Skull, Spiderweb, Cell, Water, Arrows & Handcuffs).
 - Level 1 (100%).
 - All Levels Music Remastered.

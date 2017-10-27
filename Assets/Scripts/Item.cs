@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Item : MonoBehaviour {
 
-    public int puntosGanados = 5;
+    public int puntosGanados = 00000000;
 
     // Use this for initialization
     void Start () {

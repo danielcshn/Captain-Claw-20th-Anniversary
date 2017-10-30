@@ -22,7 +22,8 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.1 [Oct 2017]
-- Level 2 (50%).
+- Basic Ladder.
+- Level 2 (100%).
 - Basic Score Marker.
 - Treasure (Coins, Cross, Ring, Gecko, Skull, Pearl Necklace, Gold Bar, Scepter & Crown).
 - Miscellaneous (Lamp, Mini-Lamp, Skull, Spiderweb, Cell, Water, Arrows & Handcuffs).

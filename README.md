@@ -22,7 +22,9 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.1 [Oct 2017]
-- Basic Ladder.
+- Basic MainMenu (Test).
+- SavePoints.
+- Basic Ladder (Test).
 - Level 2 (100%).
 - Basic Score Marker.
 - Treasure (Coins, Cross, Ring, Gecko, Skull, Pearl Necklace, Gold Bar, Scepter & Crown).

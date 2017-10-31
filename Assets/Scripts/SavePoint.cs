@@ -2,26 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Item : MonoBehaviour {
+public class SavePoint : MonoBehaviour {
 
-    public int puntosGanados = 00000000;
-
+    private Animator anim;
     // Use this for initialization
     void Start () {
-		
-	}
+        anim = GetComponent<Animator>();
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+        
+    }
 
     void OnTriggerEnter2D(Collider2D collider)
     {
         if (collider.tag == "Player")
         {
-            NotificationCenter.DefaultCenter().PostNotification(this, "IncrementarPuntos", puntosGanados);
-            Destroy(gameObject);
+            anim.SetFloat("check", 1);
         }
     }
 }

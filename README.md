@@ -25,6 +25,9 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 
 ## v0.2 [Nov 2017]
 - MainMenu & LevelsMenu.
+- Fix Treasure (Gold Bar).
+- Bonus Area.
+- Boss Warp.
 
 ## v0.1 [Oct 2017]
 - Basic MainMenu (Test).

@@ -179,7 +179,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Game
+  m_Text: '1- La Roca
+
+'
 --- !u!222 &223354631
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -253,7 +255,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Exit
+  m_Text: 2- Battlements
 --- !u!222 &345529305
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -407,7 +409,7 @@ GameObject:
   - component: {fileID: 910092824}
   - component: {fileID: 910092823}
   m_Layer: 5
-  m_Name: Logo
+  m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -556,7 +558,7 @@ GameObject:
   - component: {fileID: 1539351446}
   - component: {fileID: 1539351445}
   m_Layer: 5
-  m_Name: Start
+  m_Name: Level1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -628,7 +630,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: LevelsMenu
+          m_StringArgument: Nivel1
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -740,7 +742,7 @@ GameObject:
   - component: {fileID: 1961628906}
   - component: {fileID: 1961628905}
   m_Layer: 5
-  m_Name: Exit
+  m_Name: Level2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -805,8 +807,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 413073788}
-        m_MethodName: ExitGame
-        m_Mode: 1
+        m_MethodName: LoadNewLevel
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine

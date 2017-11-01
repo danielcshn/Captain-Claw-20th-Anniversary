@@ -1,6 +1,8 @@
 Captain Claw 20th Anniversary
 =============================
 
+![Captain Claw](https://orig00.deviantart.net/4a56/f/2010/241/b/6/captain_claw_and_parrot_by_habrah3-d2xj7cc.png)
+
 # About
 
 This is a recreation of the original Claw, is a 2D side-scroller platform video game published by Monolith Productions in 1997 about an anthropomorphic pirate cat who sets on a quest to find an ancient amulet while fighting enemies and solving puzzles.
@@ -20,6 +22,9 @@ NOTE: The source code shared here is from the demo version of the project. This 
 Please feel free to submit bug reports on the github issue tracker at https://github.com/KRIPT4/Captain-Claw-20th-Anniversary/issues
 
 # Changelog
+
+## v0.2 [Nov 2017]
+- MainMenu & LevelsMenu.
 
 ## v0.1 [Oct 2017]
 - Basic MainMenu (Test).

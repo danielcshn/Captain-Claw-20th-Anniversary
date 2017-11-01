@@ -24,10 +24,11 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.2 [Nov 2017]
-- MainMenu & LevelsMenu.
+- Teletransport Bonus Area.
+- Moving Platforms.
+- Bonus Area & Boss Warp & Map Fragment.
 - Fix Treasure (Gold Bar).
-- Bonus Area.
-- Boss Warp.
+- MainMenu & LevelsMenu.
 
 ## v0.1 [Oct 2017]
 - Basic MainMenu (Test).

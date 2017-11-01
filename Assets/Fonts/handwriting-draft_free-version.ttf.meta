@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0ceabe8299f354448af944d202842d7c
+timeCreated: 1509562748
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: handwriting-draft_free-version
+  fontNames:
+  - handwriting-draft_free-version
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

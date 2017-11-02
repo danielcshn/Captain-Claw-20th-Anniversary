@@ -22,6 +22,8 @@ GameObject:
   - component: {fileID: 212773931332948496}
   - component: {fileID: 61771555629963504}
   - component: {fileID: 95893603784998052}
+  - component: {fileID: 61056821976468620}
+  - component: {fileID: 114297319016549632}
   m_Layer: 0
   m_Name: rock
   m_TagString: Untagged
@@ -36,12 +38,37 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1063120557113320}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.0845294, y: -1.0775985, z: 0}
+  m_LocalPosition: {x: 1.0845294, y: -1.264, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &61056821976468620
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1063120557113320}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.011118263, y: -0.061002493}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 1}
+    oldSize: {x: 0.49, y: 0.46}
+    newSize: {x: 0.49, y: 0.46}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.39660662, y: 0.03305888}
+  m_EdgeRadius: 0
 --- !u!61 &61771555629963504
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -54,7 +81,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.23}
+  m_Offset: {x: 0, y: -0.2722494}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 1}
@@ -65,7 +92,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.49, y: 0.46}
+  m_Size: {x: 0.49, y: 0.37550128}
   m_EdgeRadius: 0
 --- !u!95 &95893603784998052
 Animator:
@@ -84,6 +111,18 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114297319016549632
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1063120557113320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e91da774e86674cb13194784ef1f9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fadeTime: 1
 --- !u!212 &212773931332948496
 SpriteRenderer:
   m_ObjectHideFlags: 1

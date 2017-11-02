@@ -24,6 +24,9 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.2 [Nov 2017]
+- New Script Camera Follow Player in Demo Level 1 (Test).
+- Demo Level 1 (100%).
+- Transition Effect in Teletransport.
 - Teletransport Bonus Area.
 - Moving Platforms.
 - Bonus Area & Boss Warp & Map Fragment.

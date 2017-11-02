@@ -24,6 +24,7 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.2 [Nov 2017]
+- Rock Disintegrate (Basic Animation).
 - New Script Camera Follow Player in Demo Level 1 (Test).
 - Demo Level 1 (100%).
 - Transition Effect in Teletransport.
@@ -47,6 +48,11 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 - Claw + Animations.
 - Basic collision.
 - First Version.
+
+# VIDEOS:
+
+## Level 1 (v0.1):
+https://www.youtube.com/watch?v=LSSWyw7JvFc
 
 # LINKS:
 

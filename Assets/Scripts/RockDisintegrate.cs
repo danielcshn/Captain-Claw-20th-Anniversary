@@ -25,8 +25,8 @@ public class RockDisintegrate : MonoBehaviour {
 
             anim.SetFloat("check", 1);
 
-            //AudioSource audio = GetComponent<AudioSource>();
-            //audio.Play();
+            AudioSource audio = GetComponent<AudioSource>();
+            audio.Play();
 
             yield return new WaitForSeconds(fadeTime);
 

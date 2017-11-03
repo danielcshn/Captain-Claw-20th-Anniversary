@@ -20,6 +20,9 @@ public class SavePoint : MonoBehaviour {
         if (collider.tag == "Player")
         {
             anim.SetFloat("check", 1);
+
+            AudioSource audio = GetComponent<AudioSource>();
+            audio.Play();
         }
     }
 }

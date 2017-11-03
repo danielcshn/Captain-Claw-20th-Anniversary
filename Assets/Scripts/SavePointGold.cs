@@ -22,6 +22,8 @@ public class SavePointGold : MonoBehaviour {
         if (collider.tag == "Player")
         {
             anim.SetFloat("check", 1);
+            AudioSource audio = GetComponent<AudioSource>();
+            audio.Play();
         }
     }
 }

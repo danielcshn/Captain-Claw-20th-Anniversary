@@ -24,6 +24,7 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.2 [Nov 2017]
+- Miscellaneous (ExtraLife, Invulnerable & Ghost).
 - Basic Sound Effects.
 - Rock Disintegrate (Basic Animation & Script).
 - New Script Camera Follow Player in Demo Level 1 (Test).

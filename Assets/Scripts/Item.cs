@@ -18,16 +18,18 @@ public class Item : MonoBehaviour {
 		
 	}
 
-    void OnTriggerEnter2D(Collider2D collider)
+    IEnumerator OnTriggerEnter2D(Collider2D collider)
     {
         if (collider.tag == "Player")
         {
-            //AudioSource audio = GetComponent<AudioSource>();
-            //audio.Play();
+            gameObject.layer = 31;
+
+            AudioSource audio = GetComponent<AudioSource>();
+            audio.Play();
             //audio.Play(44100);
 
             // Esperamos el tiempo que dura el audio
-            //yield return new WaitForSeconds(fadeTime);
+            yield return new WaitForSeconds(fadeTime);
 
             NotificationCenter.DefaultCenter().PostNotification(this, "IncrementarPuntos", puntosGanados);
             Destroy(gameObject);

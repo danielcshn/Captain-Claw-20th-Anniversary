@@ -6,7 +6,7 @@ public class Item : MonoBehaviour {
 
     public int puntosGanados = 00000000;
     // Transición de 0.1 segundo
-    float fadeTime = 0.25f;
+    public float fadeTime = 0.25f;
 
     // Use this for initialization
     void Start () {

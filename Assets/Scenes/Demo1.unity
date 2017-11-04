@@ -527,46 +527,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: spreadCustomCurve.m_RotationOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: Mute
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: BypassEffects
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: BypassListenerEffects
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: BypassReverbZones
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: m_PlayOnAwake
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 82854652981828212, guid: 40abf529b70a4114a82c76c1c84cb40d,
-        type: 2}
-      propertyPath: Loop
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 40abf529b70a4114a82c76c1c84cb40d, type: 2}
   m_IsPrefabParent: 0
@@ -2842,6 +2802,11 @@ Prefab:
     - target: {fileID: 1030600832308808, guid: 40abf529b70a4114a82c76c1c84cb40d, type: 2}
       propertyPath: m_Name
       value: coins (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114628622918317396, guid: 40abf529b70a4114a82c76c1c84cb40d,
+        type: 2}
+      propertyPath: fadeTime
+      value: 0.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 40abf529b70a4114a82c76c1c84cb40d, type: 2}

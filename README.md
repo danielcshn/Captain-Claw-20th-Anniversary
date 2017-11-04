@@ -26,6 +26,7 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.2 [Nov 2017]
+- Level 2, Level 4.
 - Treasure (Sounds).
 - Box (Basic Animation Break).
 - Swords (Fire, Ice & Lightning).
@@ -45,7 +46,6 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 - Basic MainMenu (Test).
 - SavePoints.
 - Basic Ladder (Test).
-- Level 2 (100%).
 - Basic Score Marker.
 - Treasure (Coins, Cross, Ring, Gecko, Skull, Pearl Necklace, Gold Bar, Scepter & Crown).
 - Miscellaneous (Lamp, Mini-Lamp, Skull, Spiderweb, Cell, Water, Arrows & Handcuffs).

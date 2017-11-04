@@ -35416,6 +35416,7 @@ GameObject:
   - component: {fileID: 1553981424}
   - component: {fileID: 1553981423}
   - component: {fileID: 1553981428}
+  - component: {fileID: 1553981429}
   m_Layer: 0
   m_Name: CAMERA
   m_TagString: MainCamera
@@ -35429,7 +35430,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1553981422}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a9dfad760b6e9455593192a6d869f7ed, type: 3}
   m_Name: 
@@ -35510,13 +35511,26 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1553981422}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4a64d4230c6c62c45a08b5c230de04a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   personaje: {fileID: 198656382}
   separacion: 0.1
+--- !u!114 &1553981429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1553981422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e65bee00cdc7fc4c85c3801d0d247b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetive: {fileID: 198656382}
+  cleanering: 5
 --- !u!4 &1563113631 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4137425861779676, guid: 40abf529b70a4114a82c76c1c84cb40d,
@@ -42849,6 +42863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 100
+  fadeTime: 0.25
 --- !u!58 &1912086452
 CircleCollider2D:
   m_ObjectHideFlags: 0

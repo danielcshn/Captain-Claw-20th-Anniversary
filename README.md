@@ -26,6 +26,7 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 # Changelog
 
 ## v0.2 [Nov 2017]
+- Basic Enemies: Soldier & Rat.
 - Level 2, Level 4.
 - Treasure (Sounds).
 - Box (Basic Animation Break).

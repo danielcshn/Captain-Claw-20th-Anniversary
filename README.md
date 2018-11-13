@@ -30,6 +30,8 @@ Please feel free to submit bug reports on the github issue tracker at https://gi
 - Tilemap palettes for all levels.
 - Physics Shape Custom Level1.
 - Removed Level 2 & Level 4 (Future redesign in tilemap).
+- New Script for Ladders.
+- New Script for Claw.
 
 ## v0.2 [Nov 2017]
 - Basic Enemies: Soldier & Rat.

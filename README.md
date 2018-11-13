@@ -3,7 +3,7 @@ Captain Claw 20th Anniversary
 
 ![Captain Claw](https://orig00.deviantart.net/4a56/f/2010/241/b/6/captain_claw_and_parrot_by_habrah3-d2xj7cc.png)
 
-Unity 2017.2.0f3 Personal (64Bit)
+Unity 2018.2.15f1 Personal (64Bit)
 
 # About
 
@@ -24,6 +24,12 @@ NOTE: The source code shared here is from the demo version of the project. This 
 Please feel free to submit bug reports on the github issue tracker at https://github.com/KRIPT4/Captain-Claw-20th-Anniversary/issues
 
 # Changelog
+
+## v0.3 [Nov 2018]
+- Levels based on Tilemaps.
+- Tilemap palettes for all levels.
+- Physics Shape Custom Level1.
+- Removed Level 2 & Level 4 (Future redesign in tilemap).
 
 ## v0.2 [Nov 2017]
 - Basic Enemies: Soldier & Rat.
